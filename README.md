@@ -1,2 +1,2 @@
-## YOLO
-This is my yolo commit
+## Update
+Small update
